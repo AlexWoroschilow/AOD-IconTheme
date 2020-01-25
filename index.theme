@@ -21,7 +21,7 @@ PanelSizes=12,16,20,22,32,48,64,72,96,12
 
 # Directory list
 
-Directories=8x8/emblems,8x8/legacy,8x8/devices,8x8/emblems,8x8/legacy,8x8/mimetypes,8x8/places,8x8/status,8x8/ui,8x8/vendors/apps,8x8/apps,12x12/devices,12x12/emblems,12x12/legacy,12x12/mimetypes,12x12/places,12x12/status,12x12/ui,12x12/vendors/apps,12x12/apps,16x16/devices,16x16/emblems,16x16/legacy,16x16/mimetypes,16x16/places,16x16/status,16x16/ui,16x16/vendors/apps,16x16/apps,20x20/devices,20x20/emblems,20x20/legacy,20x20/mimetypes,20x20/places,20x20/status,20x20/ui,20x20/vendors/apps,20x20/apps,22x22/devices,22x22/emblems,22x22/legacy,22x22/mimetypes,22x22/places,22x22/status,22x22/ui,22x22/vendors/apps,22x22/apps,24x24/devices,24x24/emblems,24x24/legacy,24x24/mimetypes,24x24/places,24x24/status,24x24/ui,24x24/vendors/apps,24x24/apps,32x32/devices,32x32/emblems,32x32/legacy,32x32/mimetypes,32x32/places,32x32/status,32x32/ui,32x32/vendors/apps,32x32/apps,48x48/devices,48x48/emblems,48x48/legacy,48x48/mimetypes,48x48/places,48x48/status,48x48/ui,48x48/vendors/apps,48x48/apps,64x64/emblems,64x64/mimetypes,64x64/places,64x64/vendors/apps,64x64/apps,96x96/emblems,96x96/mimetypes,96x96/places,96x96/vendors/apps,96x96/apps,128x128/legacy,128x128/mimetypes,128x128/places,128x128/status,128x128/vendors/apps,128x128/apps,256x256/legacy,256x256/mimetypes,256x256/places,256x256/status,256x256/vendors/apps,256x256/apps,512x512/devices,512x512/emblems,512x512/legacy,512x512/mimetypes,512x512/places,512x512/status,512x512/vendors/apps,512x512/apps,scalable/actions,scalable/vendors/apps,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/legacy,scalable/ui,
+Directories=8x8/emblems,8x8/legacy,8x8/devices,8x8/emblems,8x8/legacy,8x8/vendors/mimetypes,8x8/mimetypes,8x8/places,8x8/status,8x8/ui,8x8/vendors/apps,8x8/apps,12x12/devices,12x12/emblems,12x12/legacy,12x12/vendors/mimetypes,12x12/mimetypes,12x12/places,12x12/status,12x12/ui,12x12/vendors/apps,12x12/apps,16x16/devices,16x16/emblems,16x16/legacy,16x16/vendors/mimetypes,16x16/mimetypes,16x16/places,16x16/status,16x16/ui,16x16/vendors/apps,16x16/apps,20x20/devices,20x20/emblems,20x20/legacy,20x20/vendors/mimetypes,20x20/mimetypes,20x20/places,20x20/status,20x20/ui,20x20/vendors/apps,20x20/apps,22x22/devices,22x22/emblems,22x22/legacy,22x22/vendors/mimetypes,22x22/mimetypes,22x22/places,22x22/status,22x22/ui,22x22/vendors/apps,22x22/apps,24x24/devices,24x24/emblems,24x24/legacy,24x24/vendors/mimetypes,24x24/mimetypes,24x24/places,24x24/status,24x24/ui,24x24/vendors/apps,24x24/apps,32x32/devices,32x32/emblems,32x32/legacy,32x32/vendors/mimetypes,32x32/mimetypes,32x32/places,32x32/status,32x32/ui,32x32/vendors/apps,32x32/apps,48x48/devices,48x48/emblems,48x48/legacy,48x48/vendors/mimetypes,48x48/mimetypes,48x48/places,48x48/status,48x48/ui,48x48/vendors/apps,48x48/apps,64x64/emblems,64x64/vendors/mimetypes,64x64/mimetypes,64x64/places,64x64/vendors/apps,64x64/apps,96x96/emblems,96x96/vendors/mimetypes,96x96/mimetypes,96x96/places,96x96/vendors/apps,96x96/apps,128x128/legacy,128x128/vendors/mimetypes,128x128/mimetypes,128x128/places,128x128/status,128x128/vendors/apps,128x128/apps,256x256/legacy,256x256/vendors/mimetypes,256x256/mimetypes,256x256/places,256x256/status,256x256/vendors/apps,256x256/apps,512x512/devices,512x512/emblems,512x512/legacy,512x512/vendors/mimetypes,512x512/mimetypes,512x512/places,512x512/status,512x512/vendors/apps,512x512/apps,scalable/actions,scalable/vendors/apps,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/vendors/mimetypes,scalable/mimetypes,scalable/places,scalable/status,scalable/legacy,scalable/ui,
 
 [8x8/emblems]
 Context=Emblems
@@ -32,6 +32,12 @@ Type=Fixed
 Context=Legacy
 Size=8
 Type=Fixed
+
+[8x8/vendors/mimetypes]
+Context=MimeTypes
+Size=8
+Type=Fixed
+
 
 [8x8/vendors/apps]
 Context=Applications
@@ -59,6 +65,11 @@ Size=16
 Type=Fixed
 
 [16x16/mimetypes]
+Context=MimeTypes
+Size=16
+Type=Fixed
+
+[16x16/vendors/mimetypes]
 Context=MimeTypes
 Size=16
 Type=Fixed
@@ -108,6 +119,11 @@ Context=MimeTypes
 Size=22
 Type=Fixed
 
+[22x22/vendors/mimetypes]
+Context=MimeTypes
+Size=22
+Type=Fixed
+
 [22x22/places]
 Context=Places
 Size=22
@@ -149,6 +165,11 @@ Size=24
 Type=Fixed
 
 [24x24/mimetypes]
+Context=MimeTypes
+Size=24
+Type=Fixed
+
+[24x24/vendors/mimetypes]
 Context=MimeTypes
 Size=24
 Type=Fixed
@@ -198,6 +219,11 @@ Context=MimeTypes
 Size=32
 Type=Fixed
 
+[32x32/vendors/mimetypes]
+Context=MimeTypes
+Size=32
+Type=Fixed
+
 [32x32/places]
 Context=Places
 Size=32
@@ -243,6 +269,11 @@ Context=MimeTypes
 Size=48
 Type=Fixed
 
+[48x48/vendors/mimetypes]
+Context=MimeTypes
+Size=48
+Type=Fixed
+
 [48x48/places]
 Context=Places
 Size=48
@@ -278,6 +309,11 @@ Context=MimeTypes
 Size=64
 Type=Fixed
 
+[64x64/vendors/mimetypes]
+Context=MimeTypes
+Size=64
+Type=Fixed
+
 [64x64/places]
 Context=Places
 Size=64
@@ -299,6 +335,11 @@ Size=96
 Type=Fixed
 
 [96x96/mimetypes]
+Context=MimeTypes
+Size=96
+Type=Fixed
+
+[96x96/vendors/mimetypes]
 Context=MimeTypes
 Size=96
 Type=Fixed
@@ -327,6 +368,12 @@ Type=Scalable
 
 [256x256/mimetypes]
 Context=MimeTypes
+Size=256
+MinSize=56
+MaxSize=256
+Type=Scalable
+
+[256x256/vendors/mimetypes]
 Size=256
 MinSize=56
 MaxSize=256
@@ -388,6 +435,12 @@ MinSize=56
 MaxSize=512
 Type=Scalable
 
+[512x512/vendors/mimetypes]
+Size=512
+MinSize=56
+MaxSize=512
+Type=Scalable
+
 [512x512/places]
 Context=Places
 Size=512
@@ -440,6 +493,12 @@ Type=Scalable
 
 [scalable/categories]
 Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/vendors/mimetypes]
 Size=16
 MinSize=8
 MaxSize=512
