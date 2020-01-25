@@ -1,6 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <path style="fill:#fecd38" d="M 31.999999,4.000029 C 16.488,4.000029 4,16.488029 4,32.000029 c 0,15.511999 12.488,28 27.999999,28 15.512001,0 28.000001,-12.488001 28.000001,-28 0,-15.512 -12.488,-28 -28.000001,-28 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 32 4 C 16.488222 4 4 16.488222 4 32 C 4 32.098349 4.0111933 32.193966 4.0175781 32.291016 C 4.3923724 17.110496 16.726003 5 32 5 C 47.273998 5 59.607628 17.110496 59.982422 32.291016 C 59.988769 32.19403 60 32.098203 60 32 C 60 16.488222 47.511779 4 32 4 z"/>
- <path style="fill:#3f3f3f" d="m 31.999599,16.000658 0,11.999828 11.999829,0 -11.999829,19.999714 0,-11.999828 -11.999828,0 z"/>
- <path style="opacity:0.2" d="M 59.982422,32.664062 C 59.630879,47.865602 47.289273,60 32,60 16.712037,60 4.3711461,47.86768 4.0175781,32.667969 4.0114012,32.778587 4,32.887762 4,33 4,48.511778 16.488,61 32,61 47.512001,61 60,48.511778 60,33 c 0,-0.113447 -0.01128,-0.224114 -0.01758,-0.335938 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="database"
+   role="img"
+   viewBox="0 0 512 512"
+   class="svg-inline--fa fa-database fa-w-14 fa-9x"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="preferences-web-browser-cache-symbolic.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="224"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 456,99.19556 v 39.87522 c 0,35.14052 -87.51807,63.80089 -195.38983,63.80089 -107.87176,0 -195.389831,-28.66037 -195.389831,-63.80089 V 99.19556 c 0,-35.140514 87.518071,-63.800887 195.389831,-63.800887 C 368.48193,35.394673 456,64.055046 456,99.19556 Z m 0,89.71969 v 89.7197 c 0,35.14051 -87.51807,63.80089 -195.38983,63.80089 -107.87176,0 -195.389831,-28.66038 -195.389831,-63.80089 v -89.7197 c 41.978281,28.90985 118.810971,42.3682 195.389831,42.3682 76.57885,0 153.41068,-13.45835 195.38983,-42.3682 z m 0,139.56417 v 89.71969 C 456,453.33963 368.48193,482 260.61017,482 152.73841,482 65.220339,453.33963 65.220339,418.19911 v -89.71969 c 41.978281,28.90984 118.810971,42.36819 195.389831,42.36819 76.57885,0 153.41068,-13.45835 195.38983,-42.36819 z"
+     class=""
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="color:#53b7ec;fill:#53b7ec;stroke-width:0.87227601" />
 </svg>

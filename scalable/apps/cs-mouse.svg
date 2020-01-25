@@ -16,7 +16,7 @@
    class="svg-inline--fa fa-mouse fa-w-12 fa-9x"
    version="1.1"
    id="svg4"
-   sodipodi:docname="preferences-desktop-mouse-symbolic.svg"
+   sodipodi:docname="gnome-settings-mouse-symbolic.svg"
    width="512"
    height="512"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,16 +48,16 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="192"
+     inkscape:cx="-163.79661"
      inkscape:cy="256"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="m 70,352 a 160,160 0 0 0 160,160 h 64 A 160,160 0 0 0 454,352 V 224 H 70 Z M 246,0 H 230 A 160,160 0 0 0 70,160 v 32 h 176 z m 48,0 H 278 V 192 H 454 V 160 A 160,160 0 0 0 294,0 Z"
+     d="M 82.474575,344.37288 A 145.76271,145.76271 0 0 0 228.23728,490.13559 h 58.30509 A 145.76271,145.76271 0 0 0 432.30508,344.37288 V 227.76271 H 82.474575 Z M 242.81355,23.694915 H 228.23728 A 145.76271,145.76271 0 0 0 82.474575,169.45762 v 29.15255 H 242.81355 Z m 43.72882,0 H 271.9661 V 198.61017 H 432.30508 V 169.45762 A 145.76271,145.76271 0 0 0 286.54237,23.694915 Z"
      class=""
      id="path2"
      inkscape:connector-curvature="0"
-     style="color:#53b7ec;fill:#53b7ec" />
+     style="color:#53b7ec;fill:#53b7ec;stroke-width:0.91101694" />
 </svg>
