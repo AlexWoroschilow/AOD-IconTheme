@@ -1,3 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path d="M5.525 0C4.433 0 3.61.68 3.295 1.295c-.314.615-.3 1.205-.3 1.205v13.117l5-2.5 4.997 2.5.01-7.617h-.004l-.004-5.5s.014-.584-.293-1.197C12.394.689 11.577 0 10.494 0zm0 2h4.97c.416 0 .349.06.417.197a.956.956 0 0 1 .082.303l.004 7.5-.002 2.383-3.002-1.5-3 1.5V2.5s.013-.16.082-.295c.069-.134.01-.205.45-.205z" style="" color="#53b7ec" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#53b7ec" fill-rule="evenodd"/>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bookmark" role="img" viewBox="0 0 512 512" class="svg-inline--fa fa-bookmark fa-w-12 fa-9x" version="1.1" id="svg4" sodipodi:docname="folder-bookmark-symbolic.svg" width="512" height="512" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata id="metadata10" color="#53b7ec" fill="#53b7ec">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs8" color="#53b7ec" fill="#53b7ec"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1051" id="namedview6" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="192" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg4" color="#53b7ec" fill="#53b7ec"/>
+  <path d="M 86.50847,482 V 64.531073 c 0,-23.851511 19.33493,-43.18644 43.18645,-43.18644 H 388.81356 C 412.66507,21.344633 432,40.679562 432,64.531073 V 482 L 259.25423,381.23164 Z" class="" id="path2" inkscape:connector-curvature="0" style="color:#53b7ec;fill:#53b7ec;stroke-width:0.89971751"/>
 </svg>
