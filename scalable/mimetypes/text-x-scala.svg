@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+ <g fill="#53b7ec" color-rendering="auto" shape-rendering="auto" color-interpolation-filters="linearRGB" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#53b7ec" style="">
+  <path id="a" d="m2 10c4 .064 8-.287 12-2v4c-4.761 1.786-8.275 1.737-12 2z"/>
+  <use y="-6" xlink:href="#a"/>
+ </g>
+</svg>
