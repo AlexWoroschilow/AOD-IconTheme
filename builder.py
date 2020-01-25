@@ -16,6 +16,7 @@ def render_color(source=None, ignores=[]):
         for pattern in ignores:
             if source.find(pattern) == -1:
                 continue
+            print(source)
             return False
 
         with open(source, 'r+') as stream:
@@ -68,7 +69,7 @@ if __name__ == "__main__":
     pattern = '**/*symbolic.svg' if options.file is None else '**/{}'.format(options.file)
     for scalable in glob.glob(pattern, recursive=True):
 
-        if render_color(scalable, ['/apps/']):
+        if render_color(scalable, ['/vendors/']):
             print('.', end='')
 
         destination = scalable.replace('-symbolic', '')
