@@ -8,9 +8,11 @@
     </rdf:RDF>
   </metadata>
   <defs id="defs16" color="#53b7ec" fill="#53b7ec" style=""/>
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1411" id="namedview14" showgrid="false" inkscape:zoom="25.465441" inkscape:cx="14.277262" inkscape:cy="2.2156597" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg12" color="#53b7ec" fill="#53b7ec" style=""/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1051" id="namedview14" showgrid="false" inkscape:zoom="25.465441" inkscape:cx="10.178809" inkscape:cy="10.715706" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg12" color="#53b7ec" fill="#53b7ec" style="" showguides="true" inkscape:guide-bbox="true">
+    <sodipodi:guide position="0.98172264,6.7935207" orientation="1,0" id="guide16" inkscape:locked="false"/>
+    <sodipodi:guide position="15.000722,4.987151" orientation="1,0" id="guide18" inkscape:locked="false"/>
+  </sodipodi:namedview>
   <path style="" inkscape:connector-curvature="0" id="path6" d="m 5,6 h 9 v 5 H 5 Z m 8,-3 h 1 v 1 h -1 z m 1,2 h 1 V 6 H 14 Z M 4,5 H 5 V 6 H 4 Z m -2.5,9 h 13 c 0.277,0 0.5,0.223 0.5,0.5 v 1 C 15,15.777 14.777,16 14.5,16 H 1.5 A 0.499,0.499 0 0 1 1,15.5 v -1 C 1,14.223 1.223,14 1.5,14 Z" color="#53b7ec" fill="#53b7ec"/>
   <path style="" inkscape:connector-curvature="0" id="path8" d="m 7,11 h 2 v 4 H 7 Z" color="#53b7ec" fill="#53b7ec"/>
-  <rect style="" id="rect30" width="14.101695" height="11.525424" x="1.1525424" y="0.06779661" color="#53b7ec" fill="#53b7ec"/>
-  <path inkscape:connector-curvature="0" style="" d="m 2.1811692,0.59271596 v 1.00000004 3.0000004 1 5.9999996 1 H 14.181169 v -1 -6.9999996 -1 V 2.592716 H 9.1889812 l -2,-2.00000004 -0.0078,0.0078 v -0.0078 h -4 z m 1,1.00000004 h 3.591797 l 1.001953,1 h -0.59375 v 0.0078 l -0.0078,-0.0078 -2,2.0000004 h -1.99219 z m 0,4.0000004 H 13.181169 V 11.592716 H 3.1811692 Z" id="rect4079" color="#53b7ec" fill="#53b7ec"/>
+  <path inkscape:connector-curvature="0" d="M 13.662532,2.4158751 H 8.4048194 L 6.6522486,0.6633033 H 2.2708201 c -0.7259481,0 -1.31442808,0.5884805 -1.31442808,1.3144286 V 9.864302 c 0,0.725948 0.58847998,1.314429 1.31442808,1.314429 H 13.662532 c 0.725949,0 1.314429,-0.588481 1.314429,-1.314429 V 3.7303025 c 0,-0.725947 -0.58848,-1.3144274 -1.314429,-1.3144274 z" class="" style="color:#53b7ec;fill:#53b7ec;stroke-width:0.02738393" id="path2"/>
 </svg>
