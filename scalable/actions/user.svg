@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051" color="#53b7ec" fill="#53b7ec" style="">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
-      </style>
-  </defs>
- <path style="" d="m429.71429 533.79074a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3m0 1a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2m0 6a5 4.5 0 0 0 -5 4.5 5 4.5 0 0 0 .0332 .5h9.93a5 4.5 0 0 0 .0371 -.5 5 4.5 0 0 0 -5 -4.5m.00005 1a4 3.5 0 0 1 3.95508 3h-7.91a4 3.5 0 0 1 3.95508 -3" transform="translate(-421.71-531.79)" class="ColorScheme-Text" color="#53b7ec" fill="#53b7ec"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user" role="img" viewBox="0 0 448 512" class="svg-inline--fa fa-user fa-w-14 fa-9x"><path fill="#53b7ec" d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z" class="" color="#53b7ec" style=""/></svg>

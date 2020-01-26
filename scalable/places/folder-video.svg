@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="unlock" role="img" viewBox="0 0 448 512" class="svg-inline--fa fa-unlock fa-w-14 fa-9x"><path color="#53b7ec" fill="#53b7ec" d="M400 256H152V152.9c0-39.6 31.7-72.5 71.3-72.9 40-.4 72.7 32.1 72.7 72v16c0 13.3 10.7 24 24 24h32c13.3 0 24-10.7 24-24v-16C376 68 307.5-.3 223.5 0 139.5.3 72 69.5 72 153.5V256H48c-26.5 0-48 21.5-48 48v160c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z" class=""/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051" color="#53b7ec" fill="#53b7ec" style="">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+    <path style="" d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 5 3 L 11 3 L 11 7 L 5 7 L 5 3 z M 3 4 L 4 4 L 4 5 L 3 5 L 3 4 z M 12 4 L 13 4 L 13 5 L 12 5 L 12 4 z M 3 7.5 L 4 7.5 L 4 8.5 L 3 8.5 L 3 7.5 z M 12 7.5 L 13 7.5 L 13 8.5 L 12 8.5 L 12 7.5 z M 5 9 L 11 9 L 11 13 L 5 13 L 5 9 z M 3 11 L 4 11 L 4 12 L 3 12 L 3 11 z M 12 11 L 13 11 L 13 12 L 12 12 L 12 11 z " class="ColorScheme-Text" color="#53b7ec" fill="#53b7ec"/>
+</svg>

@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051" color="#53b7ec" fill="#53b7ec" style="">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
-      </style>
-  </defs>
- <path style="" d="M 8 2 C 4.6862915 2 2 4.6862915 2 8 C 2 11.313708 4.6862915 14 8 14 C 11.313708 14 14 11.313708 14 8 C 14 4.6862915 11.313708 2 8 2 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z M 7 4 L 7 8 L 7 9 L 12 9 L 12 8 L 8 8 L 8 4 L 7 4 z " class="ColorScheme-Text" color="#53b7ec" fill="#53b7ec"/>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" viewBox="0 0 512 512" class="svg-inline--fa fa-clock fa-w-16 fa-9x" version="1.1" id="svg4" sodipodi:docname="system-config-date-symbolic.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata id="metadata10" color="#53b7ec" fill="#53b7ec">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs8" color="#53b7ec" fill="#53b7ec"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1051" id="namedview6" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg4" color="#53b7ec" fill="#53b7ec"/>
+  <path d="m 255.08474,31.864407 c -124.41607,0 -225.220333,100.804263 -225.220333,225.220333 0,124.41608 100.804263,225.22034 225.220333,225.22034 124.41608,0 225.22034,-100.80426 225.22034,-225.22034 0,-124.41607 -100.80426,-225.220333 -225.22034,-225.220333 z M 306.93991,349.8065 226.84138,291.59431 c -2.81525,-2.08874 -4.44991,-5.35807 -4.44991,-8.80902 V 129.94423 c 0,-5.99377 4.90399,-10.89776 10.89775,-10.89776 h 43.59104 c 5.99376,0 10.89776,4.90399 10.89776,10.89776 V 254.996 l 57.6673,41.95637 c 4.90399,3.54178 5.90295,10.35287 2.36118,15.25687 l -25.60973,35.23608 c -3.54177,4.81318 -10.35287,5.90295 -15.25686,2.36118 z" class="" id="path2" inkscape:connector-curvature="0" style="color:#53b7ec;fill:#53b7ec;stroke-width:0.9081465"/>
 </svg>
