@@ -1,15 +1,9 @@
 import os
-import gc
-import sys
 import glob
 import optparse
 from lxml import etree
 from cairosvg import svg2png
-from multiprocessing import Pool, TimeoutError
-from PyQt5 import QtSvg
-from PyQt5 import QtGui
-from PyQt5 import QtWidgets
-from PyQt5 import QtCore
+from multiprocessing import Pool
 
 
 def render_color(source=None, ignores=[]):
@@ -94,8 +88,6 @@ if __name__ == "__main__":
     parser.add_option("--file", default=None, dest="file", help="file to parse")
     (options, args) = parser.parse_args()
 
-    application = QtWidgets.QApplication(sys.argv)
-
     pool = Pool(processes=4)
 
     elements = []
@@ -105,11 +97,11 @@ if __name__ == "__main__":
         if os.path.isdir(scalable):
             continue
 
-        elements.append((scalable, (8, 8)))
-        elements.append((scalable, (12, 12)))
-        elements.append((scalable, (16, 16)))
-        elements.append((scalable, (20, 20)))
-        elements.append((scalable, (24, 24)))
+        #elements.append((scalable, (8, 8)))
+        #elements.append((scalable, (12, 12)))
+        #elements.append((scalable, (16, 16)))
+        #elements.append((scalable, (20, 20)))
+        #elements.append((scalable, (24, 24)))
         elements.append((scalable, (32, 32)))
         elements.append((scalable, (48, 48)))
         elements.append((scalable, (64, 64)))
