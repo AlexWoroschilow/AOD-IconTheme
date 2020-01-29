@@ -3,24 +3,44 @@ Name=A.O.D
 Comment=A.O.D icon theme
 Example=folder
 
+
+
 # KDE Specific Stuff
-DisplayDepth=32
-LinkOverlay=link_overlay
-LockOverlay=lock_overlay
-ZipOverlay=zip_overlay
 DesktopDefault=48
-DesktopSizes=8,12,16,20,22,32,48,64,72,96,128
+DesktopSizes=16,22,32,48,64,128,256
 ToolbarDefault=22
 ToolbarSizes=16,22,32,48
 MainToolbarDefault=22
 MainToolbarSizes=16,22,32,48
 SmallDefault=16
-SmallSizes=16
-PanelDefault=32
-PanelSizes=12,16,20,22,32,48,64,72,96,128
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+DisplayDepth=32
+KDE-Extensions=.svg
+FollowsColorScheme=true
 
 # Directory list
 Directories=scalable/actions,scalable/applications,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/legacy,scalable/ui,scalable/vendors/applications,scalable/vendors/mimetypes,
+
+
+[scalable/vendors/applications]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/vendors/mimetypes]
+Context=MimeTypes
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 
 [scalable/actions]
 Context=Actions
@@ -98,18 +118,3 @@ Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
-
-[scalable/vendors/applications]
-Context=Applications
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[scalable/vendors/mimetypes]
-Context=MimeTypes
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
