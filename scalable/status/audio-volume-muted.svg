@@ -8,13 +8,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0alpha (9dee831, 2019-01-15)"
-   sodipodi:docname="kdenlive-hide-audio-symbolic.svg"
+   height="512"
+   width="512"
+   sodipodi:docname="indicator-sound-switcher-symbolic.svg"
    id="svg4"
    version="1.1"
-   class="svg-inline--fa fa-volume-mute fa-w-16 fa-9x"
+   class="svg-inline--fa fa-volume-down fa-w-12 fa-9x"
    viewBox="0 0 512 512"
    role="img"
-   data-icon="volume-mute"
+   data-icon="volume-down"
    data-prefix="fas"
    focusable="false"
    aria-hidden="true">
@@ -35,15 +37,15 @@
   <sodipodi:namedview
      inkscape:current-layer="svg4"
      inkscape:window-maximized="0"
-     inkscape:window-y="856"
-     inkscape:window-x="1656"
-     inkscape:cy="256"
-     inkscape:cx="256"
-     inkscape:zoom="1.9003906"
+     inkscape:window-y="315"
+     inkscape:window-x="1425"
+     inkscape:cy="262.64785"
+     inkscape:cx="247.55315"
+     inkscape:zoom="1.3437791"
      showgrid="false"
      id="namedview6"
-     inkscape:window-height="1243"
-     inkscape:window-width="1936"
+     inkscape:window-height="1159"
+     inkscape:window-width="2238"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -54,21 +56,19 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <path
-     id="path30"
-     d="M -0.155142,-0.5359155 H 511.66854 V 511.28777 H -0.155142 Z"
+     id="path22"
+     d="M 0.582071,-0.0978206 H 514.73721 V 514.05732 H 0.582071 Z"
      fill="none"
      inkscape:connector-curvature="0"
-     style="opacity:1;stroke-width:23.2647;stop-opacity:1" />
+     style="opacity:1;stroke-width:23.3707;stop-opacity:1" />
   <path
-     id="path32"
-     d="M 255.7567,69.258223 139.43314,185.58179 V 325.17007 L 255.7567,441.49363 h 23.26471 V 69.258223 Z M 69.638997,185.58179 V 325.17007 H 116.16842 V 185.58179 Z"
-     class="ColorScheme-Text"
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#53b7ec;fill-opacity:1;stroke-width:23.2647;stop-opacity:1" />
+     d="m 335.34381,170.06416 -12.5968,20.14553 a 93.482752,93.482752 0 0 1 28.39538,66.77006 93.482752,93.482752 0 0 1 -28.27853,66.86354 l 12.57343,20.19227 a 116.85344,116.85344 0 0 0 39.07579,-87.05581 116.85344,116.85344 0 0 0 -39.16927,-86.91559 z"
+     id="path24"
+     style="opacity:1;fill:#53b7ec;fill-opacity:1;stroke-width:23.3707;stop-opacity:1" />
   <path
-     id="path34"
-     d="m 395.34498,162.31708 a 93.058852,93.058852 0 0 0 -93.05885,93.05885 93.058852,93.058852 0 0 0 93.05885,93.05885 93.058852,93.058852 0 0 0 93.05885,-93.05885 93.058852,93.058852 0 0 0 -93.05885,-93.05885 z m 0,23.26471 a 69.794139,69.794139 0 0 1 69.79414,69.79414 69.794139,69.794139 0 0 1 -12.95845,40.38754 l -97.1767,-97.15344 a 69.794139,69.794139 0 0 1 40.34101,-13.02824 z m -56.83569,29.4066 97.1767,97.1767 a 69.794139,69.794139 0 0 1 -40.34101,13.00498 69.794139,69.794139 0 0 1 -69.79414,-69.79414 69.794139,69.794139 0 0 1 12.95845,-40.38754 z"
-     class="ColorScheme-NegativeText"
      inkscape:connector-curvature="0"
-     style="opacity:1;stroke-width:23.2647;stop-opacity:1;fill:#ff0000" />
+     d="M 257.65964,70.014243 140.8062,186.86768 v 140.22413 l 116.85344,116.85344 h 23.37069 V 70.014243 Z M 70.694135,186.86768 V 327.09181 H 117.43551 V 186.86768 Z"
+     id="path852"
+     style="opacity:1;fill:#53b7ec;fill-opacity:1;stroke-width:23.3707;stop-opacity:1" />
 </svg>
