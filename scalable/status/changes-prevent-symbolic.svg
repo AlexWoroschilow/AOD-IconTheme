@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="" d="M 8,1 C 5.784,1 4,2.784 4,5 V 7 H 3 C 2.446,7 2,7.446 2,8 V 14 C 2,14.554 2.446,15 3,15 H 13 C 13.554,15 14,14.554 14,14 V 8 C 14,7.446 13.554,7 13,7 H 12 V 5 C 12,2.784 10.216,1 8,1 Z M 8,3 C 9.108,3 10,3.892 10,5 V 7 H 6 V 5 C 6,3.892 6.892,3 8,3 Z" color="#53b7ec" fill="#53b7ec"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051" color="#53b7ec" fill="#53b7ec" style="">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+ <path style="" d="M 8,2 C 6.3431375,2 5,3.3431372 5,5 l 0,3 -2,0 0,6 10,0 0,-6 -2,0 0,-3 C 11,3.3431372 9.6568625,2 8,2 Z m 0,1 c 1.1045695,0 2,0.8954305 2,2 L 10,8 6,8 6,5 C 6,3.8954305 6.8954305,3 8,3 Z" class="ColorScheme-Text" color="#53b7ec" fill="#53b7ec"/>
 </svg>
