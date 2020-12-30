@@ -1,13 +1,10 @@
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" role="img" viewBox="0 0 512 512" class="svg-inline--fa fa-search fa-w-16 fa-9x" version="1.1" id="svg4" sodipodi:docname="gnome-search-tool-symbolic.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata id="metadata10" color="#53b7ec" fill="#53b7ec">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs8" color="#53b7ec" fill="#53b7ec"/>
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1051" id="namedview6" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg4" color="#53b7ec" fill="#53b7ec"/>
-  <path d="M 479.82173,414.1716 392.3739,326.72376 c -3.947,-3.94699 -9.29736,-6.13976 -14.91087,-6.13976 h -14.29688 c 24.20822,-30.96198 38.59282,-69.90564 38.59282,-112.27004 0,-100.7799 -81.65891,-182.438806 -182.43881,-182.438806 -100.7799,0 -182.438804,81.658906 -182.438804,182.438806 0,100.7799 81.658904,182.43881 182.438804,182.43881 42.3644,0 81.30807,-14.3846 112.27004,-38.59283 v 14.29689 c 0,5.6135 2.19277,10.96387 6.13977,14.91086 l 87.44783,87.44784 c 8.24483,8.24483 21.5769,8.24483 29.73402,0 l 24.8222,-24.82221 c 8.24483,-8.24483 8.24483,-21.57689 0.0877,-29.82172 z M 219.32016,320.584 c -62.01165,0 -112.27003,-50.17068 -112.27003,-112.27004 0,-62.01165 50.17067,-112.270037 112.27003,-112.270037 62.01166,0 112.27004,50.170677 112.27004,112.270037 0,62.01165 -50.17067,112.27004 -112.27004,112.27004 z" class="" id="path2" inkscape:connector-curvature="0" style="color:#53b7ec;fill:#53b7ec;stroke-width:0.87710965"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051" color="#53b7ec" fill="#53b7ec" style="">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+ <path style="" d="M 6.5 2 C 4.007 2 2 4.01 2 6.5 C 2 8.993 4.01 11 6.5 11 C 7.5636432 11 8.5263409 10.618801 9.2949219 10.005859 L 13.292969 14.003906 L 14 13.296875 L 10.001953 9.2988281 C 10.617604 8.529048 11 7.565338 11 6.5 C 11 4.007 8.99 2 6.5 2 z M 6.5 3 C 8.439 3 10 4.561 10 6.5 C 10 8.439 8.439 10 6.5 10 C 4.561 10 3 8.439 3 6.5 C 3 4.561 4.561 3 6.5 3 z " class="ColorScheme-Text" color="#53b7ec" fill="#53b7ec"/>
 </svg>
